@@ -1,0 +1,10 @@
+{
+    "extends": "@tsconfig/node14/tsconfig.json",
+    "compilerOptions": {
+        "allowJs": true,
+        "outDir": "./dist",
+        "checkJs": true,
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"],
+}

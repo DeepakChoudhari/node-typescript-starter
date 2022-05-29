@@ -20,7 +20,10 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+coverage-final.json
+clover.xml
 *.lcov
+lcov.info
 
 # nyc test coverage
 .nyc_output
